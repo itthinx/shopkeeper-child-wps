@@ -1,0 +1,5 @@
+*** Shopkeeper Child WPS ***
+
+= 1.0.0 =
+
+- Initial release.
