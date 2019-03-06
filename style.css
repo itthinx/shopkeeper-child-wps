@@ -6,5 +6,13 @@
  * Template:    shopkeeper
  * Tags:        light
  * Text Domain: shopkeeper-child-wps
- * Version:     1.0.0
+ * Version:     1.1.0
  */
+
+/* make use of the full screen and make sure that results are not hidden */
+.off-canvas-wrapper .site-search {
+    min-height: 100%;
+}
+.off-canvas-wrapper .site-search > .row {
+    overflow: visible !important;
+}
